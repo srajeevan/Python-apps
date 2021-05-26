@@ -1,1 +1,3 @@
-print("Odd or Even Project")
+#Odd or Even Project
+
+print("What number are you thinking?")
